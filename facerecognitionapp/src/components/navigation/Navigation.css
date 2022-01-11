@@ -1,0 +1,14 @@
+.Tilt{
+       position: right;
+       left: 5%;
+       top :5%;
+
+}
+
+.Tilt-inner{
+	size: all;
+}
+#webSiteIcon {
+	height: 90px;
+	width: 90px;
+}
